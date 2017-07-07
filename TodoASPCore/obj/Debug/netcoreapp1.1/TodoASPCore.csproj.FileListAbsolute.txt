@@ -1,0 +1,9 @@
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\bin\Debug\netcoreapp1.1\TodoASPCore.deps.json
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\bin\Debug\netcoreapp1.1\TodoASPCore.runtimeconfig.json
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\bin\Debug\netcoreapp1.1\TodoASPCore.runtimeconfig.dev.json
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\bin\Debug\netcoreapp1.1\TodoASPCore.dll
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\obj\Debug\netcoreapp1.1\TodoASPCore.csprojResolveAssemblyReference.cache
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\obj\Debug\netcoreapp1.1\TodoASPCore.AssemblyInfo.cs
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\bin\Debug\netcoreapp1.1\TodoASPCore.pdb
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\obj\Debug\netcoreapp1.1\TodoASPCore.dll
+c:\users\pasha\documents\visual studio 2017\Projects\TodoASPCore\TodoASPCore\obj\Debug\netcoreapp1.1\TodoASPCore.pdb
